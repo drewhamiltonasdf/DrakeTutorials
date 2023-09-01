@@ -11,8 +11,7 @@ Starting with:
 - Exhaustive Look into the functions in each Namespace, with minimal working examples in Python
        Everything from how to call AutoDiffXD version of math.sin() to setting up a LeafSystem...
 
-#### 001 : Load via URDF, SDF, Mujoco, Build manipulator equations,
-         invert Mass matrix, build state space symbolic rep.
+#### 001 : Load via Mujoco, URDF, SDF, Build manipulator equations,
          
 #### 002  : Multibody plant: setup and Python API
         
