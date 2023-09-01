@@ -17,7 +17,7 @@ Starting with:
         
 #### 004 : Hybrid System (WitnessFunction) with Unusual Discrete-time Map
 <p align="center">
-![alt text](https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/UnusualHybridSystem.png?raw=true)
+<img src="./imgs/UnusualHybridSystem.png?raw=true)
 </p>
 
 #### 005: Hybrid System (WitnessFunction) & Meshcat
