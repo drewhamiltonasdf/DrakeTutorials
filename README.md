@@ -28,6 +28,8 @@ Starting with:
 </p>
 
 #### 005: Hybrid System (WitnessFunction) & Meshcat
+- Here, we just focus on the bare minimum to set up a Hybrid Plant with LeafSystem. We visualize this in meshcat without tapping into SceneGraph. In the next tutorial we layer in SceneGraph.
+
 #### 006: Using SceneGraph & Meshcat with Hybrid System
 <p align="center">
 <img src="https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/HybridSystem.png"> 
