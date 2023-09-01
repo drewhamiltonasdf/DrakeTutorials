@@ -23,5 +23,5 @@ Starting with:
 #### 005: Hybrid System (WitnessFunction) & Meshcat
 #### 006: Using SceneGraph & Meshcat with Hybrid System
 <p align="center">
-<img src="https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/UnusualHybridSystem.png](https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/HybridSystem.png)"> 
+<img src="https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/UnusualHybridSystem.png"> 
 </p>
