@@ -14,6 +14,11 @@ Starting with:
 #### 001 : Load via Mujoco, URDF, SDF, Build manipulator equations,
          
 #### 002  : Multibody plant: setup and Python API
+
+#### 003 : Meshcat Raw Interface
+<p align="center">
+<img src="https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/meshcat.png"> 
+</p>
         
 #### 004 : Hybrid System (WitnessFunction) with Unusual Discrete-time Map
 <p align="center">
