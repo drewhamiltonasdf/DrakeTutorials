@@ -11,14 +11,14 @@ Starting with:
 - Exhaustive Look into the functions in each Namespace, with minimal working examples in Python
        Everything from how to call AutoDiffXD version of math.sin() to setting up a LeafSystem...
 
-# 001 : Load via URDF, SDF, Mujoco, Build manipulator equations,
+#### 001 : Load via URDF, SDF, Mujoco, Build manipulator equations,
          invert Mass matrix, build state space symbolic rep.
          
-# 002  : Multibody plant: setup and Python API
+#### 002  : Multibody plant: setup and Python API
         
-# 004 : Hybrid System (WitnessFunction) with Unusual Discrete-time Map
+#### 004 : Hybrid System (WitnessFunction) with Unusual Discrete-time Map
 ![alt text](https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/UnusualHybridSystem.png?raw=true)
 
-# 005: Hybrid System (WitnessFunction) & Meshcat
-# 006: Using SceneGraph & Meshcat with Hybrid System
+#### 005: Hybrid System (WitnessFunction) & Meshcat
+#### 006: Using SceneGraph & Meshcat with Hybrid System
 ![alt text](https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/HybridSystem.png?raw=true)
