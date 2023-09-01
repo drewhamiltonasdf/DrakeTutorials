@@ -16,8 +16,12 @@ Starting with:
 #### 002  : Multibody plant: setup and Python API
         
 #### 004 : Hybrid System (WitnessFunction) with Unusual Discrete-time Map
+<p align="center">
 ![alt text](https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/UnusualHybridSystem.png?raw=true)
+</p>
 
 #### 005: Hybrid System (WitnessFunction) & Meshcat
 #### 006: Using SceneGraph & Meshcat with Hybrid System
+<p align="center">
 ![alt text](https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/HybridSystem.png?raw=true)
+</p>
