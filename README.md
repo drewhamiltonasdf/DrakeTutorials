@@ -16,4 +16,8 @@ Starting with:
          
 002  : Multibody plant: setup and Python API
         
-004-005: Hybrid Systems (WitnessFunction)
+004
+005: Hybrid Systems (WitnessFunction)
+
+006: Using SceneGraph & Meshcat with Hybrid System
+![alt text](https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/HybridSystem.png?raw=true)
