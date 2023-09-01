@@ -16,6 +16,8 @@ Starting with:
 #### 002  : Multibody plant: setup and Python API
 
 #### 003 : Meshcat Raw Interface
+- It's quite an eyesore, but we change the environment map and add a bunch of objects to a Drake scene. This is just a quick overview of the raw Meshcat interface through Drake with a SceneGraph or plant...
+  
 <p align="center">
 <img src="https://github.com/drewhamiltonasdf/DrakeTutorials/blob/main/imgs/meshcat.png"> 
 </p>
